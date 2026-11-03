@@ -68,4 +68,5 @@ reply_sha256 (SHA-256 of the exact local files this round produced).
 | T-1104-41 | 2026-11-03T23:14:05.330Z | needs_review | 31272 | `f4db3ab51975` | `b4912be54bea` |  |
 | T-1104-42 | 2026-11-03T23:23:29.465Z | needs_review | 32939 | `f08bdc60fa31` | `68ba6fa73cd9` |  |
 | T-1104-43 | 2026-11-03T23:30:10.904Z | needs_review | 34399 | `5106f42c91eb` | `740c3da10037` |  |
+| T-1104-44 | 2026-11-03T23:35:25.975Z | needs_review | 35103 | `050433faa3bb` | `a565932fb446` |  |
 
