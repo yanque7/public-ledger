@@ -1,0 +1,10 @@
+{
+  "task_id": "T-1104-37",
+  "ts": "2026-11-03T22:40:17.931Z",
+  "gate_state": "needs_review",
+  "sent_chars": 22130,
+  "reply_latency_ms": 19975,
+  "report_sha256": "6a732b9eaba7e905b061afe59853e21e7d5f2ac659f1906a7933fd2d05b5eded",
+  "reply_sha256": "54741749d34dd2b7c2ed13a169369412cc845a905f44f492c22732cf925c6247",
+  "note": null
+}
