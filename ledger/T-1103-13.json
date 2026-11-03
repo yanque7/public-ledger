@@ -1,10 +1,10 @@
 {
   "task_id": "T-1103-13",
   "ts": "2026-11-03T20:44:06.0546843+08:00",
-  "gate_state": "needs_review",
+  "gate_state": "done",
   "sent_chars": 16982,
   "reply_latency_ms": null,
   "report_sha256": "234b6a5187b20f445f423f2b1e6361e96fd72e4af4481530a4e79ce4c95efc32",
   "reply_sha256": "432c45c385d7ad500d4e0c14cb1a7416a185c098b0a7c25cb0f67774d030bf9e",
-  "note": "自动 readReply 在她还在生成时提前返回（已修：生成态不判到齐）；全文由 3 张截图人工补读"
+  "note": "人工独立核对通过：用户于 2026-11-04T01:19+08:00 在桌面端比对原始发送内容与完整回复，结果一致（verification/T-1103-13.md）"
 }
