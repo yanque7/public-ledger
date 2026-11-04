@@ -1,10 +1,10 @@
 {
   "task_id": "T-1104-50",
-  "ts": "2026-11-04T00:30:06.255Z",
+  "ts": "2026-11-04T00:34:02.133Z",
   "gate_state": "needs_review",
-  "sent_chars": 51992,
-  "reply_latency_ms": 13074,
-  "report_sha256": "60cfd0782998ffb0700724670526084cd76045e7247a2fc33e8fe6bfd8fc4b54",
-  "reply_sha256": "bd0282efd0daeccb26a91a3fd6e85aaaf0185050545f85379487e069cef66de9",
+  "sent_chars": 12358,
+  "reply_latency_ms": 26804,
+  "report_sha256": "dbaa63ca3aee6a20b7579c5ad88e7656ebb323b995d742135aec05aac5312710",
+  "reply_sha256": "014ca8fbedd46570fb4dbd4a5de5798e1e262c0cc159a527495219116da133da",
   "note": null
 }
