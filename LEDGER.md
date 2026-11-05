@@ -141,4 +141,5 @@ reply_sha256 (SHA-256 of the exact local files this round produced).
 | T-1104-92 |  |  | 1393 | `—` | `—` |  |
 | T-1104-93 |  |  | 2607 | `—` | `—` |  |
 | T-1105-01 | 2026-11-05T13:22:23.702Z | needs_review | 4406 | `8f9be62133b5` | `e14f13e7d99e` |  |
+| T-1105-07 | 2026-11-05T17:04:35.991Z | needs_review | 178262 | `ab2bc1ab0e2b` | `—` |  |
 
