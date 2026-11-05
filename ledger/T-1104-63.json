@@ -1,0 +1,10 @@
+{
+  "task_id": "T-1104-63",
+  "ts": "",
+  "gate_state": null,
+  "sent_chars": 2163,
+  "reply_latency_ms": null,
+  "report_sha256": null,
+  "reply_sha256": null,
+  "note": "三项 NOT_VERIFIED 为执行前置；实现需单独范围批准；aep-live* 活动依赖待清理"
+}

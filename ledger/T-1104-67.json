@@ -1,0 +1,10 @@
+{
+  "task_id": "T-1104-67",
+  "ts": "",
+  "gate_state": null,
+  "sent_chars": 4723,
+  "reply_latency_ms": null,
+  "report_sha256": null,
+  "reply_sha256": null,
+  "note": "批准 5 个新文件；I-9 限临时 fixture 一次 runStep；前置=宿主清 junction、出站规则快照、路径边界、Node 双校验；前置未满足只能做不启动 runner 的代码准备"
+}

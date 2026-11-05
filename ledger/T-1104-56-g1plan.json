@@ -1,0 +1,10 @@
+{
+  "task_id": "T-1104-56-g1plan",
+  "ts": "",
+  "gate_state": null,
+  "sent_chars": null,
+  "reply_latency_ms": null,
+  "report_sha256": null,
+  "reply_sha256": "12d756775ed2ad6b23c7f7fe192137c5262ec5f3ad4dc768b6755fc6fc9b7c0b",
+  "note": "已按裁决出 rev.2；下一步提交最终冻结审查，仍不启动 G1"
+}

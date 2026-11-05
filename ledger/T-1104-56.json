@@ -1,0 +1,10 @@
+{
+  "task_id": "T-1104-56",
+  "ts": "",
+  "gate_state": null,
+  "sent_chars": null,
+  "reply_latency_ms": null,
+  "report_sha256": null,
+  "reply_sha256": "99cddb829470f1544c45c54309e22ea6e50faac33afdad5a27a746d6df0812ed",
+  "note": "最小必补：G1 合成 fixture 与确定性判据、A2 固定提问、A3 衰减规则、A4 判据、A5 统一版本；现有产物标为 unapproved experimental artifact"
+}

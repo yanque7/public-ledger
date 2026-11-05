@@ -1,0 +1,10 @@
+{
+  "task_id": "T-1104-64",
+  "ts": "",
+  "gate_state": null,
+  "sent_chars": 2256,
+  "reply_latency_ms": null,
+  "report_sha256": null,
+  "reply_sha256": null,
+  "note": "B 需真实路径祖先校验/fail-closed；C 需 capability 白名单与网络约束证据；重启由宿主安排"
+}

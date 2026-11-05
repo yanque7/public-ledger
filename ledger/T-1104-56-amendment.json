@@ -1,0 +1,10 @@
+{
+  "task_id": "T-1104-56-amendment",
+  "ts": "",
+  "gate_state": null,
+  "sent_chars": null,
+  "reply_latency_ms": null,
+  "report_sha256": null,
+  "reply_sha256": "497c7ea3ec52ee4d950c3e5bd5d6966c0054580a6e09a3d823f7e763f2ed2011",
+  "note": "裁决要求把「已验证」改口径、G1 计划补事务与故障域验证；后续只许写文档，不写实现、不启动 G1"
+}

@@ -1,0 +1,10 @@
+{
+  "task_id": "T-1104-56-g1plan-rev2",
+  "ts": "",
+  "gate_state": null,
+  "sent_chars": null,
+  "reply_latency_ms": null,
+  "report_sha256": null,
+  "reply_sha256": "ee2d8edf22c4a69d28d1d6f5fe2102f61d2a45f866b7f92106208185b378edff",
+  "note": "rev.3 已落盘；E-2 需重启 DSH 后四项核验；之后提交最终冻结"
+}

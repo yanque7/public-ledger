@@ -1,0 +1,10 @@
+{
+  "task_id": "T-1104-57",
+  "ts": "",
+  "gate_state": null,
+  "sent_chars": null,
+  "reply_latency_ms": null,
+  "report_sha256": null,
+  "reply_sha256": "1aa06da866a92eb8f449de84a985acd7e58185839e293e76a95885418dfdb9d9",
+  "note": "三项必补：C-1 关系语义不得靠改名映射；T-01b 须固定 observed_at；轮次变更先入 staged state，committed 才可见"
+}

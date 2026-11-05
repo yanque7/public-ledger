@@ -1,0 +1,10 @@
+{
+  "task_id": "T-1104-66",
+  "ts": "",
+  "gate_state": null,
+  "sent_chars": 1199,
+  "reply_latency_ms": null,
+  "report_sha256": null,
+  "reply_sha256": null,
+  "note": "C 网络出口改宿主级属性；A/B/C 证据转附件；junction 仅 runner 实际执行前置；禁止执行 T-01..T-17、建 G1 run、写状态/journal/snapshot、接线、接真实模型/用户数据"
+}

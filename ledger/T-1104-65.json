@@ -1,0 +1,10 @@
+{
+  "task_id": "T-1104-65",
+  "ts": "",
+  "gate_state": null,
+  "sent_chars": 2900,
+  "reply_latency_ms": null,
+  "report_sha256": null,
+  "reply_sha256": null,
+  "note": "B 关闭条件=宿主清理 junction+复查证据；C 网络出口强制隔离未验证；runner 接线需单独范围申请；不得执行 27 轮 G1"
+}

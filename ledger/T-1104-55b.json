@@ -1,0 +1,10 @@
+{
+  "task_id": "T-1104-55b",
+  "ts": "",
+  "gate_state": null,
+  "sent_chars": null,
+  "reply_latency_ms": null,
+  "report_sha256": null,
+  "reply_sha256": "36a31e032259ed62328829a0c15d3a35abe10b27207fe4f1585ce17854713097",
+  "note": "补正回执：§5.2 allow_chain、§6.3/§6.3.1 冲突判定域改重叠、§4.2 增 not_yet_valid 与 M8 职责；I-07 保持 COND"
+}

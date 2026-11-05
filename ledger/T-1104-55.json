@@ -1,0 +1,10 @@
+{
+  "task_id": "T-1104-55",
+  "ts": "",
+  "gate_state": null,
+  "sent_chars": null,
+  "reply_latency_ms": null,
+  "report_sha256": null,
+  "reply_sha256": "63f45fa1b9a9fe29502be5ba1fe14a0afcf5cbf9708d50face755f5675f60c8a",
+  "note": "单条发送 19990 字符（报告 + §0.9/§4.2/§4.5/§5.2/§5.5/§6.3/§6.3.1/§8/§9.9 正文）；发送后截图确认送达，裁决由 ctrl+A/ctrl+C 剪贴板取得"
+}
